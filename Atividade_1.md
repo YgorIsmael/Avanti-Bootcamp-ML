@@ -1,6 +1,7 @@
 **1) Explique, com suas palavras, o que é machine learning?**
 
 O Machine Learning é uma subárea da inteligência artificial que cria algoritmos para que computadores realizem tarefas sem instruções específicas. Em vez de seguir regras fixas, esses programas aprendem a partir de dados para fazer previsões ou tomar decisões. É dividido em 3 tipos principais, sendo eles:
+
 Aprendizado supervisionado: O programa é treinado com exemplos de entradas e saídas conhecidas, como prever o preço de um imóvel com base em suas características.
 Aprendizado não supervisionado: O programa é treinado com dados sem rótulos e precisa encontrar padrões escondidos, como agrupar clientes com comportamentos de compra semelhantes.
 Aprendizado por reforço: O programa aprende a tomar decisões recebendo incentivos ou penalidades por suas ações, como fazer um algoritmo que joga xadrez.
